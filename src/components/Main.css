@@ -1,0 +1,18 @@
+.main h1 {
+    color: black;
+    text-align: center;
+}
+
+.main {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+
+    margin: 100px auto;
+    max-width: 500px;
+    height: 75vh;
+}
+
+#titulo {
+    transform: translateY(20px);
+}
